@@ -6,9 +6,7 @@
  * @package Kuna
  *
  * Created by PhpStorm.
- * User: Reilag
- * Date: 20.06.16
- * Time: 15:20
+ * User: Tymchyk Maksym
  *
  */
 class Config
