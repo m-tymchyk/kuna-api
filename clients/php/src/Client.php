@@ -1,5 +1,6 @@
 <?php namespace Kuna;
 
+
 /**
  * Class Client
  * @package Kuna
@@ -14,10 +15,23 @@
  */
 class Client
 {
-	const HOST = 'https://kuna.io';
-	const BASE_PATH = "/api/v2";
 	
-	
-	
-	
+
+	/**
+	 * @param $path
+	 * @param array $params
+	 * @param string $method
+	 */
+	private function execute($path , array $params = [], $method = "GET")
+	{
+		$path = trim($path, '/');
+		$uri = implode('/', [Config::HOST, Config::BASE_PATH, $path]);
+
+		$http = new \GuzzleHttp\Client([
+			'base_uri' => $uri
+		]);
+
+	}
+
+
 }
