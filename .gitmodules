@@ -1,3 +1,3 @@
-[submodule "php"]
+[submodule "clients/php"]
 	path = clients/php
-	url = git@github.com:reilag/kuna-api-php.git
+	url = https://github.com/reilag/kuna-api-php.git
