@@ -14,7 +14,7 @@
  */
 class Client
 {
-	const URI = 'https://kuna.io';
+	const HOST = 'https://kuna.io';
 	const BASE_PATH = "/api/v2";
 	
 	
