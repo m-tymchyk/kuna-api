@@ -5,4 +5,4 @@
 
 Clients:
 * [PHP](https://github.com/reilag/kuna-api-php)
-* [Java](/clients/java)
+* [Java](https://github.com/vladmelnyk/kuna-api-java)
