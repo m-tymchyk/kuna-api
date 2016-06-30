@@ -4,3 +4,6 @@
 [submodule "clients/java"]
 	path = clients/java
 	url = https://github.com/vladmelnyk/kuna-api-java.git
+[submodule "clients/php-simple"]
+	path = clients/php-simple
+	url = https://github.com/reilag/kuna-api-php-simple
