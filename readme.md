@@ -7,13 +7,13 @@ Kuna is the first bitcoin crowdfunding exchange in Eastern Europe.
 This repository accumulate all [Kuna.IO](http://kuna.io) SDK for development using.
 
 ## PHP Clients:
-* [PHP / 5.6+ / Composer](https://github.com/reilag/kuna-api-php)
-* [PHP Simple / 5.3+ / Composer](https://github.com/reilag/kuna-api-php-simple)
+* [PHP](https://github.com/reilag/kuna-api-php) / 5.6+ / [Packages](https://packagist.org/packages/reilag/kuna-api-php)
+* [PHP Simple](https://github.com/reilag/kuna-api-php-simple) / 5.3+ / [Packages](https://packagist.org/packages/reilag/kuna-api-php-simple)
 
 ## Java library
 * [Java](https://github.com/vladmelnyk/kuna-api-java)
 
 ## Mobile
-* [Swift / iOS SDK](https://github.com/OlegGordiichuk/kuna-sdk)
+* [Swift](https://github.com/OlegGordiichuk/kuna-sdk) / iOS SDK
 
 [Kuna](http://kuna.io) | [Docs](https://kuna.io/documents/api)
