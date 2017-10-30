@@ -13,6 +13,9 @@ This repository accumulate all [Kuna.IO](http://kuna.io) SDK for development usi
 ## Java library
 * [Java](https://github.com/vladmelnyk/kuna-api-java)
 
+## Python library
+* [Python](https://github.com/DmytroLitvinov/kuna)
+
 ## Mobile
 * [Swift](https://github.com/OlegGordiichuk/kuna-sdk) / iOS SDK
 
