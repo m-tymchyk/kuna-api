@@ -17,7 +17,11 @@ This repository accumulate all [Kuna.IO](http://kuna.io) SDK for development usi
 * [Swift](https://github.com/OlegGordiichuk/kuna-sdk) / iOS SDK
 
 ## Clients and SDKs v3
+
+### [Documentation v3](https://github.com/kunadevelopers/api-docs)
+
 * [JavaScript](https://github.com/CoinWizard/kuna-sdk)
+
 [![NPM Version](https://img.shields.io/npm/v/kuna-sdk.svg?style=flat)](https://www.npmjs.com/package/kuna-sdk)
 [![NPM Downloads](https://img.shields.io/npm/dm/kuna-sdk.svg?style=flat)](https://www.npmjs.com/package/kuna-sdk)
 
